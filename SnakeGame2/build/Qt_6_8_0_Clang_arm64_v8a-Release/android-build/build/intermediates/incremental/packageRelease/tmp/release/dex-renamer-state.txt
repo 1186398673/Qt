@@ -1,0 +1,4 @@
+#Sat Nov 30 15:33:54 CST 2024
+base.0=F\:\\Qtproject\\SnakeGame2\\build\\Qt_6_8_0_Clang_arm64_v8a-Release\\android-build\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,148 @@
+/* 取消所有控件的焦点 */
+QWidget:focus {
+    border: 0px;
+}
+
+QWidget {
+background:black;
+}
+
+QLabel {
+background:none;
+color:white;
+}
+
+QWidget#hWidget1 {
+border-image:none;
+background:transparent;
+}
+
+QWidget#hWidget2 {
+border-image:none;
+background:transparent;
+}
+
+QWidget#vWidget1 {
+background:#24252a;
+}
+
+QWidget#vWidget0 {
+border-image:none;
+}
+
+QListWidget#listWidget {
+color:green;
+font-size: 18px;
+border:none;
+background: "#20ffffff";
+border-image:none;
+}
+
+
+QListWidgetlistWidget:item:active {
+background: transparent;
+}
+
+QListWidget#listWidget:item {
+background: transparent;
+height:60;
+}
+
+QListWidget#listWidget:item:selected {
+color:purple;
+background: transparent;
+}
+
+QListWidget#listWidget:item:hover {
+background: transparent;
+color:purple;
+border:none;
+}
+
+QPushButton {
+background:none;
+}
+
+QPushButton#btn_play {
+border-image:url(:/images/pause_u.png);
+}
+
+QPushButton#btn_play:hover {
+border-image:url(:/images/pause_d.png);
+}
+
+QPushButton#btn_play:checked {
+border-image:url(:/images/play_d.png);
+}
+
+QPushButton#btn_play:checked:hover {
+border-image:url(:/images/play_d.png);
+}
+
+QPushButton#btn_next {
+border-image:url(:/images/r_u.png);
+}
+
+QPushButton#btn_next:hover {
+border-image:url(:/images/r_d.png);
+}
+
+QPushButton#btn_volumedown {
+border-image:url(:/images/volume_min.png);
+}
+
+QPushButton#btn_volumedown:hover {
+border-image:url(:/images/volume_min.png);
+}
+
+QPushButton#btn_volumeup {
+border-image:url(:/images/volume_add.png);
+}
+
+QPushButton#btn_volumeup:hover {
+border-image:url(:/images/volume_add.png);
+}
+
+
+/* 视频播放进度条 */
+QSlider#durationSlider {
+background:#d6d6d6;
+}
+
+QSlider#durationSlider:handle:horizontal {
+background:cyan;
+}
+
+QSlider#durationSlider:add-page:horizontal {
+ background:#d6d6d6;
+}
+
+/* 音量滑动条调节 */
+QSlider#volumeSlider {
+background:transparent;
+}
+
+QSlider#volumeSlider:handle:horizontal {
+background:cyan;
+}
+
+QSlider#volumeSlider:add-page:horizontal {
+border-image:url(/images/slider_d.png);
+}
+
+
+QPushButton#btn_screen {
+border-image:url(:/images/max_u.png);
+}
+
+QPushButton#btn_screen:hover {
+border-image:url(:/images/max_d.png);
+}
+
+QPushButton#btn_screen:checked {
+border-image:url(:/images/max_d.png);
+}
+
+QPushButton#btn_screen:checked:hover {
+border-image:url(:/images/max_d.png);
+}

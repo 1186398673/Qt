@@ -1,0 +1,8 @@
+F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/Breakout.dir
+F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/edit_cache.dir
+F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/list_install_components.dir
+F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/install.dir
+F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/install/local.dir
+F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/Breakout_autogen_timestamp_deps.dir
+F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/Breakout_autogen.dir

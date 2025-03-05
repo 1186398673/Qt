@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/qss.css</file>
+        <file>images/cd.png</file>
+        <file>images/dd_d.png</file>
+        <file>images/dd_u.png</file>
+        <file>images/heart_d.png</file>
+        <file>images/heart_u.png</file>
+        <file>images/l_d.png</file>
+        <file>images/l_u.png</file>
+        <file>images/music.png</file>
+        <file>images/music_icon.png</file>
+        <file>images/pause_d.png</file>
+        <file>images/pause_u.png</file>
+        <file>images/play_d.png</file>
+        <file>images/play_u.png</file>
+        <file>images/Progressbar.png</file>
+        <file>images/r_d.png</file>
+        <file>images/r_u.png</file>
+        <file>images/s_d.png</file>
+        <file>images/s_u.png</file>
+        <file>images/th-list_d.png</file>
+        <file>images/th-list_u.png</file>
+        <file>images/volume_d.png</file>
+        <file>images/volume_u.png</file>
+        <file>images/bg.png</file>
+        <file>images/max_d.png</file>
+        <file>images/max_u.png</file>
+        <file>images/slider_d.png</file>
+        <file>images/slider_u.png</file>
+        <file>images/volume_add.png</file>
+        <file>images/volume_min.png</file>
+        <file>video/fireworks.mp4</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="F:\Qtproject\Tcpclient\build\Qt_6_8_0_Clang_armeabi_v7a-Release\android-build"
+    name=":"
+    type="APP"
+    maven=":android-build:unspecified"
+    agpVersion="8.6.0"
+    buildFolder="build"
+    bootClassPath="F:\Android2\platforms\android-34\android.jar;F:\Android2\build-tools\36.0.0-rc1\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

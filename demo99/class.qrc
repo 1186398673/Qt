@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CLASS/pikaqiu.jpeg</file>
+        <file>class2/bg4.png</file>
+        <file>class2/date.png</file>
+        <file>class2/digital.png</file>
+        <file>class2/screen.png</file>
+        <file>class2/back.png</file>
+    </qresource>
+</RCC>

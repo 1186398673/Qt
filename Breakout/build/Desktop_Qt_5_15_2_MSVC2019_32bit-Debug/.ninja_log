@@ -1,0 +1,14 @@
+# ninja log v5
+1	386	7542205464001241	Breakout_autogen/timestamp	4f4187758444f201
+1	386	7542205464001241	Breakout_autogen/mocs_compilation.cpp	4f4187758444f201
+1	386	7542205464001241	F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/Breakout_autogen/timestamp	4f4187758444f201
+1	386	7542205464001241	F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/Breakout_autogen/mocs_compilation.cpp	4f4187758444f201
+388	1176	7542205472654573	CMakeFiles/Breakout.dir/Breakout_autogen/mocs_compilation.cpp.obj	397c5c336e3e00b8
+473	1248	7542205473382623	CMakeFiles/Breakout.dir/main.cpp.obj	c25f6d3e31f6a6bb
+430	1249	7542205473382623	CMakeFiles/Breakout.dir/widget.cpp.obj	74697336ca262189
+1250	1857	7542205479396743	Breakout.exe	f7dad0b929e7c3dc
+3	232	7542205962053366	Breakout_autogen/timestamp	4f4187758444f201
+3	232	7542205962053366	Breakout_autogen/mocs_compilation.cpp	4f4187758444f201
+3	232	7542205962053366	F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/Breakout_autogen/timestamp	4f4187758444f201
+3	232	7542205962053366	F:/Qtproject/Breakout/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/Breakout_autogen/mocs_compilation.cpp	4f4187758444f201
+274	1185	7542205975792929	CMakeFiles/Breakout.dir/widget.cpp.obj	74697336ca262189

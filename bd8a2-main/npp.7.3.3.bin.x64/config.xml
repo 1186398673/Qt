@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no">
+        <Find name="&#x82CD;&#x7A79;" />
+        <Find name="&#x535A;&#x60A6;&#x79D1;&#x521B;" />
+        <Find name="&#x6C5F;&#x57DF;&#x4E91;" />
+        <Find name="&#x8F6C;&#x6362;&#x5B9D;" />
+        <Find name="&#x73AF;&#x901A;" />
+        <Find name="&#x8F6F;&#x51CC;" />
+        <Find name="&#x4E1C;&#x65E5;&#x79D1;&#x6280;" />
+    </FindHistory>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="G:\notebook\&#x9762;&#x8BD5;&#x9898;&#x7B14;&#x8BB0;\Java&#x57FA;&#x7840;.txt" />
+        <File filename="G:\MyCode\MyEclipse 2017 Java SE\j2se_Course-basic\src\com\time170105\For_3.java" />
+        <File filename="G:\MyCode\MyEclipse 2017 Java SE\j2se_Course-basic\src\com\time170105\For_2.java" />
+        <File filename="G:\MyCode\MyEclipse 2017 Java SE\j2se_Course-basic\src\com\time170105\For_1.java" />
+        <File filename="G:\MyCode\MyEclipse 2017 Java SE\j2se_Course-basic\src\com\time170105\For_7.java" />
+        <File filename="G:\MyCode\MyEclipse 2017 Java SE\j2se_workbook\src\com\library\cycle_01\Test1_cycle05.java" />
+        <File filename="G:\JAVA&#x89C6;&#x9891;__\MyBatis_day3\test_hibernate\src\com\test\Test.java" />
+        <File filename="G:\JAVA&#x89C6;&#x9891;__\db1\MySql&#x4E0A;&#x673A;&#x4F5C;&#x4E1A;.txt" />
+        <File filename="E:\buffer\xunlei-download\Navicat for MySQL &#x4E2D;&#x6587;&#x7834;&#x89E3;&#x7248;\&#x4F7F;&#x7528;&#x65B9;&#x6CD5;.txt" />
+        <File filename="F:\Qtproject\sscom\pic.qrc" />
+    </History>
+    <GUIConfigs>
+        <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
+        <GUIConfig name="StatusBar">show</GUIConfig>
+        <GUIConfig name="TabBar" dragAndDrop="yes" drawTopBar="yes" drawInactiveTab="yes" reduce="no" closeButton="yes" doubleClick2Close="yes" vertical="no" multiLine="no" hide="no" quitOnEmpty="no" />
+        <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
+        <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
+        <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
+        <GUIConfig name="AppPosition" x="-35" y="232" width="1444" height="920" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
+        <GUIConfig name="Auto-detection">yes</GUIConfig>
+        <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
+        <GUIConfig name="TrayIcon">no</GUIConfig>
+        <GUIConfig name="MaitainIndent">yes</GUIConfig>
+        <GUIConfig name="TagsMatchHighLight" TagAttrHighLight="yes" HighLightNonHtmlZone="yes">yes</GUIConfig>
+        <GUIConfig name="RememberLastSession">yes</GUIConfig>
+        <GUIConfig name="DetectEncoding">yes</GUIConfig>
+        <GUIConfig name="NewDocDefaultSettings" format="0" encoding="4" lang="0" codepage="-1" openAnsiAsUTF8="yes" />
+        <GUIConfig name="langsExcluded" gr0="0" gr1="0" gr2="0" gr3="0" gr4="0" gr5="0" gr6="0" gr7="0" langMenuCompact="yes" />
+        <GUIConfig name="Print" lineNumber="yes" printOption="3" headerLeft="" headerMiddle="" headerRight="" footerLeft="" footerMiddle="" footerRight="" headerFontName="" headerFontStyle="0" headerFontSize="0" footerFontName="" footerFontStyle="0" footerFontSize="0" margeLeft="0" margeRight="0" margeTop="0" margeBottom="0" />
+        <GUIConfig name="Backup" action="0" useCustumDir="no" dir="" isSnapshotMode="yes" snapshotBackupTiming="7000" />
+        <GUIConfig name="TaskList">yes</GUIConfig>
+        <GUIConfig name="MRU">yes</GUIConfig>
+        <GUIConfig name="URL">2</GUIConfig>
+        <GUIConfig name="globalOverride" fg="no" bg="no" font="yes" fontSize="yes" bold="no" italic="no" underline="no" />
+        <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
+        <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
+        <GUIConfig name="sessionExt"></GUIConfig>
+        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="MenuBar">show</GUIConfig>
+        <GUIConfig name="Caret" width="1" blinkRate="600" />
+        <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
+        <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
+        <GUIConfig name="titleBar" short="no" />
+        <GUIConfig name="stylerTheme" path="F:\Qtproject\bd8a2-main\npp.7.3.3.bin.x64\stylers.xml" />
+        <GUIConfig name="wordCharList" useDefault="yes" charsAdded="" />
+        <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
+        <GUIConfig name="multiInst" setting="0" />
+        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" newStyleSaveDlg="no" isFolderDroppedOpenFiles="no" />
+        <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
+        <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="no" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="hide" folderMarkStyle="arrow" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
+        <GUIConfig name="DockingManager" leftWidth="361" rightWidth="200" topHeight="200" bottomHeight="200">
+            <FloatingWindow cont="4" x="106" y="177" width="432" height="1027" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="4" isVisible="yes" />
+            <PluginDlg pluginName="dummy" id="0" curr="3" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44080" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44070" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="1" prev="-1" isVisible="no" />
+            <ActiveTabs cont="0" activeTab="0" />
+            <ActiveTabs cont="1" activeTab="-1" />
+            <ActiveTabs cont="2" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="4" activeTab="-1" />
+        </GUIConfig>
+    </GUIConfigs>
+    <ProjectPanels>
+        <ProjectPanel id="0" workSpaceFile="" />
+        <ProjectPanel id="1" workSpaceFile="" />
+        <ProjectPanel id="2" workSpaceFile="" />
+    </ProjectPanels>
+    <FileBrowser />
+</NotepadPlus>

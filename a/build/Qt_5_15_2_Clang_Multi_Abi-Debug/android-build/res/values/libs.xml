@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <array name="qt_sources">
+        <item>https://download.qt.io/ministro/android/qt5/qt-5.14</item>
+    </array>
+
+    <!-- The following is handled automatically by the deployment tool. It should
+         not be edited manually. -->
+
+    <array name="bundled_libs">
+        
+    </array>
+
+    <array name="qt_libs">
+        <item>x86_64;c++_shared</item>
+        <item>x86_64;Qt5Core_x86_64</item>
+        <item>x86_64;Qt5Gui_x86_64</item>
+        <item>x86_64;Qt5Widgets_x86_64</item>
+        <item>x86;c++_shared</item>
+        <item>x86;Qt5Core_x86</item>
+        <item>x86;Qt5Gui_x86</item>
+        <item>x86;Qt5Widgets_x86</item>
+    </array>
+
+    <array name="load_local_libs">
+        <item>x86_64;libplugins_platforms_qtforandroid_x86_64.so</item>
+        <item>x86;libplugins_platforms_qtforandroid_x86.so</item>
+    </array>
+
+</resources>
